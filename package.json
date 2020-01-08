@@ -7,7 +7,7 @@
     "protocol-buffers-encodings": "^1.1.0",
     "simple-handshake": "^1.3.1",
     "simple-message-channels": "^1.2.1",
-     "sodium-universal": "~2.0.0",
+    "sodium-universal": "sce9sc/sodium-universal",
     "varint": "^5.0.0"
   },
   "devDependencies": {
